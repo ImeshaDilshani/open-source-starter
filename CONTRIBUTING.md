@@ -40,7 +40,7 @@ git commit -m "Add <Your Name> to contributors list"
 
 - *Push Changes to Your Fork*: Push your changes to your forked repository on GitHub using the following command:
 ```
-git push origin master
+git push origin main
 ```
 
 - *Create a Pull Request*: Once your changes are pushed to your forked repository, navigate to the repository on GitHub. You should see a notification prompting you to create a pull request. Click on the "Compare & pull request" button, provide a brief description of your changes, and submit your pull request.
