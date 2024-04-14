@@ -14,6 +14,23 @@ git clone <paste-your-forked-repository-URL>
 
 - *Edit the README File*: Navigate to the cloned repository directory on your computer and open the README.md file in your text editor. Look for the contributors section and follow the provided code snippet to add your name, GitHub profile URL, and profile photo URL.
 
+```
+            <td align="center">
+                <a href="https://my-portfolio-five-tawny-85.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/93858302?v=4" width="100px;" alt="Imesha Dilshani"/>
+                    <br />
+                    <sub><b>Imesha</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://yourlink">
+                    <img src="https://yourprofile image link" width="100px;" alt="your name"/>
+                    <br />
+                    <sub><b>Name</b></sub>
+                </a>
+            </td>
+```
+
 - *Commit Your Changes*: After adding your details to the README.md file, save your changes and exit the text editor. In your terminal, type the following commands to stage and commit your changes:
 
 ```
