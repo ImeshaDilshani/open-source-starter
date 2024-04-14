@@ -18,7 +18,7 @@ git clone <paste-your-forked-repository-URL>
 
 ```
 git add README.md
-git commit -m "Add <Your Name> to contributors list 🍉"
+git commit -m "Add <Your Name> to contributors list"
 ```
 
 - *Push Changes to Your Fork*: Push your changes to your forked repository on GitHub using the following command:
