@@ -16,7 +16,7 @@ Are you ready to embark on this thrilling quest? Then grab your keyboard, summon
 
 So, are you ready, brave adventurer? Your journey into the world of open source contributions awaits! 🌈✨
 
-## 🚨 **VERY IMPORTANT: If you want your Pull Request to be accepted, follow these steps:**
+## 🚨 **VERY IMPORTANT: If you want your Pull Request to be accepted, follow these steps**
 
 Before diving into your contribution, it's crucial to ensure that you're aligning with the project's guidelines. Here's what you need to do:
 
@@ -35,3 +35,7 @@ Before diving into your contribution, it's crucial to ensure that you're alignin
 7. **Follow Submission Guidelines**: Additionally, ensure that you've followed any specific submission guidelines outlined in the project's README or contributing guidelines.
 
 By following these steps, you'll increase the likelihood of your Pull Request being reviewed and accepted by the project maintainers. Thank you for your contribution! 🌟
+
+## Contributors 🤗
+
+Thanks goes to these wonderful people who have contributed to this project.
