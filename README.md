@@ -52,3 +52,5 @@ Thanks goes to these wonderful people who have contributed to this project.
         </tr> 
     </tbody>  
 </table> 
+
+Happy coding!
