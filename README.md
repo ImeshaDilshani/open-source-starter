@@ -43,7 +43,7 @@ Thanks goes to these wonderful people who have contributed to this project.
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://my-portfolio-five-tawny-85.vercel.app/">
+                <a href="https://github.com/ImeshaDilshani">
                     <img src="https://avatars.githubusercontent.com/u/93858302?v=4" width="100px;" alt="Imesha Dilshani"/>
                     <br />
                     <sub><b>Imesha</b></sub>
